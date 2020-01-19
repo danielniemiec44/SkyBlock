@@ -1,0 +1,8 @@
+name: SkyBlock
+version: 1.0
+main: eu.hypecraft.skyblock.Main
+author: xdaanielx
+
+commands:
+  is:
+    description: Basic Islands Command.
